@@ -1,0 +1,39 @@
+h1{
+    color: red;
+
+}
+h3{
+    color: red;
+    font-style: italic;
+}
+ol{
+    color: darkred;
+}
+ol :last-child
+{text-decoration: underline;}
+
+
+ul{
+    letter-spacing: 5px;
+    color: rgb(147, 64, 5);
+}
+#1{
+    text-decoration: underline;
+}
+.color{
+    background-color: yellow;
+font-weight: bold;
+    
+}
+#overline{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+p{
+    color:rgb(159, 97, 15) ;
+}
+a[href]{
+    background-color: yellow;
+    color: red;
+    
+}
